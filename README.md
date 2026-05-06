@@ -43,7 +43,7 @@ Customers were segmented into:
 
 ## 📈 Dashboard
 
-![Dashboard](ecommerce-customer-analytics/dashboard/tableau_dashboard.png)
+![Dashboard](Dashboard/tableau_dashboard.png)
 
 📌 *Tableau Public Link Here:* 
 1. Dashboard: https://public.tableau.com/app/profile/aelia.wang/viz/EcommerceCustomerAnalytics/Dashboard1?publish=yes
@@ -81,9 +81,9 @@ Customers were segmented into:
 ecommerce-customer-analytics
 │
 ├── data                   # Raw dataset
-├── notebooks              # RFM analysis
-├── outputs                # Processed data
-├── dashboard              # Tableau files & screenshots
+├── Notebooks              # RFM analysis
+├── Outputs                # Processed data
+├── Dashboard              # Tableau files & screenshots
 └── README.md
 ```
 
