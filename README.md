@@ -39,7 +39,7 @@ Customers were segmented into:
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard/tableau_dashboard.png)
+![Dashboard](ecommerce-customer-analytics/dashboard/tableau_dashboard.png)
 
 ---
 
